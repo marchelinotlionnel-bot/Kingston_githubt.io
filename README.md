@@ -1,2 +1,2 @@
-# Kingston_githubt.io
+# Kingston_github.io
 BSB
